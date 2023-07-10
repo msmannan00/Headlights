@@ -90,12 +90,7 @@ public class loginController : MonoBehaviour
 
     public void OnPrivacyPolicy()
     {
-        Application.OpenURL("https://www.366degreefitvirtual.com/privacy-policy");
-    }
-
-    public void OnOpenApp()
-    {
-        Application.OpenURL("https://366degreefitvirtual.com");
+        Application.OpenURL("https://366degreefit.com/privacy-policy");
     }
 
     public void OnDummyLogin()
